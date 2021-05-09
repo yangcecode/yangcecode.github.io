@@ -100,7 +100,6 @@ favicon:
   apple:
     url: /images/apple-touch-icon.png
     gravatar: false
-
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
 # highlight: rainbow
